@@ -1,4 +1,4 @@
-package admin.app;
+package app.app;
 
 import org.junit.Test;
 

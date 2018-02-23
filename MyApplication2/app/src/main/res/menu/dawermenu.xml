@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/manual"
+        android:title="Manual"
+        android:icon="@drawable/ic_manual" />
+    <item
+        android:id="@+id/config"
+        android:title="Configuración"
+        android:icon="@drawable/ic_config" />
+    <item
+        android:id="@+id/files"
+        android:title="Archivos"
+        android:icon="@drawable/ic_files" />
+    <item
+        android:id="@+id/info"
+        android:title="Contacto"
+        android:icon="@drawable/ic_info" />
+</menu>

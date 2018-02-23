@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">App</string>
+    <string name="app_name">Multimedia App</string>
+
+    <!--Index Menu Strings -->
+    <string name="menu_manual">Manual</string>
+    <string name="menu_config">Configuration</string>
+    <string name="menu_files">Files</string>
+    <string name="menu_contact">Contact</string>
 </resources>
