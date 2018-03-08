@@ -1,9 +1,18 @@
 <resources>
-    <string name="app_name">Multimedia App</string>
+    <string name="app_name">App Name</string>
+    <string name="mail">correo@correo.com</string>
+    <string name="phone">6666-6666</string>
 
     <!--Index Menu Strings -->
     <string name="menu_manual">Manual</string>
     <string name="menu_config">Configuration</string>
     <string name="menu_files">Files</string>
-    <string name="menu_contact">Contact</string>
+    <string name="menu_contact">About Us</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- BLUETHOOT ERROR DIALOG STRINGS-->
+    <string name="bt_err_title">Error</string>
+    <string name="bt_err_msg">Device does not support Bluethooth</string>
+    <string name="bt_err_btn">OK</string>
 </resources>
