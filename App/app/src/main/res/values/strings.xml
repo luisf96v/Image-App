@@ -15,4 +15,10 @@
     <string name="bt_err_title">Error</string>
     <string name="bt_err_msg">Device does not support Bluethooth</string>
     <string name="bt_err_btn">OK</string>
+
+    <!-- WELCOME SCREEN -->
+    <string name="start_msg">Welcome</string>
+    <string name="title_activity_index">IndexActivity</string>
+
 </resources>
+

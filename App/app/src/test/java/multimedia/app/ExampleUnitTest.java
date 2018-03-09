@@ -1,4 +1,4 @@
-package app.app;
+package multimedia.app;
 
 import org.junit.Test;
 
