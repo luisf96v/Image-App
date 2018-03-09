@@ -16,7 +16,8 @@ public class Index extends AppCompatActivity {
         toggle = new ActionBarDrawerToggle(this, drawer, R.string.open,  R.string.close);
         drawer.addDrawerListener(toggle);
         toggle.syncState();
-        //getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().show();
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     @Override
