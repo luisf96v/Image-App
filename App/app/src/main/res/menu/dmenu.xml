@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
         <item
-            android:id="@+id/manual"
+            android:id="@+id/menu_manual"
             android:title="@string/menu_manual"
             android:icon="@drawable/ic_manual" />
         <item
-            android:id="@+id/config"
+            android:id="@+id/menu_config"
             android:title="@string/menu_config"
             android:icon="@drawable/ic_config" />
         <item
-            android:id="@+id/files"
+            android:id="@+id/menu_files"
             android:title="@string/menu_files"
             android:icon="@drawable/ic_files" />
         <item
-            android:id="@+id/info"
+            android:id="@+id/menu_info"
             android:title="@string/menu_contact"
             android:icon="@drawable/ic_info" />
  </menu>
