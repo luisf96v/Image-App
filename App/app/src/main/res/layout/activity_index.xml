@@ -11,9 +11,7 @@
         <FrameLayout
             android:id="@+id/index_fragment"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-        </FrameLayout>
+            android:layout_height="match_parent"/>
 
         <android.support.design.widget.NavigationView
             android:id="@+id/navView"
@@ -25,8 +23,7 @@
             app:itemIconTint="@color/darkgrey"
             app:menu="@menu/dmenu"
             app:headerLayout="@layout/menu_header"
-            >
-        </android.support.design.widget.NavigationView>
+            />
 
 
     </android.support.v4.widget.DrawerLayout>
